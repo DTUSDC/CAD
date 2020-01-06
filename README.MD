@@ -9,7 +9,7 @@ The following points have been pondered over by the entire team while designing 
 
 ---
 
-To clone this repo:
+# To clone this repo:
 
 1. Download [GitHub Desktop](https://desktop.github.com)
 2. Sign in
