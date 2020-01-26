@@ -1,16 +1,16 @@
 # Individual Compartments
 
 ## EC
-![EC](images/EC.png)
+![EC](../images/EC.png)
 
 ## FC
-![FC](images/FC.png)
+![FC](../images/FC.png)
 
 ## LMC
-![LMC](images/LMC.png)
+![LMC](../images/LMC.png)
 
 ## LC
-![LC](images/LC.png)
+![LC](../images/LC.png)
 
 ## RC
-![RC](images/RC.png)
+![RC](../images/RC.png)
